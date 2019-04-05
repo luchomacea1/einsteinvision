@@ -1,0 +1,12 @@
+Links
+
+
+Crear Developer:
+https://developer.salesforce.com/signup
+
+Registro de Einstein
+https://api.einstein.ai/signup.
+
+Einstein package
+https://github.com/muenzpraeger/salesforce-einstein-vision-apex
+
