@@ -10,3 +10,7 @@ https://api.einstein.ai/signup.
 Einstein package
 https://github.com/muenzpraeger/salesforce-einstein-vision-apex
 
+Link para el dataset
+
+https://developer.salesforce.com/files/Cats.zip
+
