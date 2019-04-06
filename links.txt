@@ -10,3 +10,8 @@ https://api.einstein.ai/signup.
 Einstein package
 https://github.com/muenzpraeger/salesforce-einstein-vision-apex
 
+
+
+
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0Y000000smT0
+
